@@ -1,0 +1,11 @@
+job_role,skills
+Backend Developer,"Python,Django,SQL,REST API,Git,Docker"
+Frontend Developer,"HTML,CSS,JavaScript,React,Next.js,Git"
+Full Stack Developer,"HTML,CSS,JavaScript,React,Node.js,SQL"
+Data Analyst,"Python,SQL,Excel,Power BI,Pandas"
+Machine Learning Engineer,"Python,TensorFlow,Scikit-learn,Docker"
+AI Engineer,"Python,LLM,LangChain,Vector Database,FastAPI"
+Java Developer,"Java,Spring Boot,SQL,Microservices"
+DevOps Engineer,"Docker,Kubernetes,AWS,Jenkins,Git"
+Cyber Security Analyst,"Network Security,SIEM,Penetration Testing"
+Cloud Engineer,"AWS,Azure,Docker,Kubernetes"

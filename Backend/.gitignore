@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+uploads/
+ATS_Report.pdf
+improved_resume.txt

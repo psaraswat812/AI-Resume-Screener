@@ -1,0 +1,18 @@
+# Backend
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/uploads/
+Backend/datasets/*.csv
+
+# Frontend
+frontend/.env.local
+frontend/.next/
+frontend/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
