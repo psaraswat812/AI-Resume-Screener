@@ -37,9 +37,6 @@ An AI-powered Resume Screening and ATS Optimization platform built using FastAPI
 * Scikit-Learn
 * NLP-Based Skill Extraction
 
-## Screenshots
-
-(Add screenshots after deployment)
 
 ## Installation
 
